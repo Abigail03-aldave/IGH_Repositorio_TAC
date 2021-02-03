@@ -1,0 +1,9 @@
+Lecciones aprendidas Clase 2:
+La importancia de utilizar buenas practicas de programación, debido a que por mas tedioso que paresca seguir estas pautas,
+a largo plazo facilitan el trabajo a los programadores que quieran revisar nuestro código, ya sea para realizar mantenimiento o testeos.
+
+El modelo de capas, modelo el cual es genera muchas opiniones divididas en la comunidad de programación pero es el modelo más sólido en 
+la actualidad
+
+Como óptimizar el código a la hora de realizar arreglos en java
+
